@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on ActiveIOT</title>
+    <link>http://activeiot.io/topics/</link>
+    <description>Recent content in Topics on ActiveIOT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>ceuppens.steven@gmail.com (Steven Ceuppens)</managingEditor>
+    <webMaster>ceuppens.steven@gmail.com (Steven Ceuppens)</webMaster>
+    <copyright>(c) 2019 ActiveIOT.</copyright>
+    
+	<atom:link href="http://activeiot.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
